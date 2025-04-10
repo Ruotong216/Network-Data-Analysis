@@ -4,9 +4,17 @@ This repository contains coursework for network data analysis.
 
 ## Files
 
-- `Part1.ipynb`: Wikidata Editor Network Analysis (Part 1)
-- `Part2.ipynb`: Road Network and Events in Central Leeds (Part 2)
-- `data/`: Contains the input CSV files used in the analyses
+- `Part1.ipynb` : Wikidata Editor Network Analysis (Part 1)
+- `Part2.ipynb` : Road Network and Events in Central Leeds (Part 2)
+- `data/` :
+  - **For Part 1**:
+    - `REQUEST_FOR_DELETION.csv`
+    - `PROPERTY_PROPOSAL.csv`
+    - `INTERWIKI_CONFLICT.csv`
+  - **For Part 2**: 
+    - `accidents_2015_2019_merged`
+    - `voronoi_polygons_8.gpkg`
+    - `voronoi_polygons_v22.gpkg`
 
 ## Part 1 Overview
 
